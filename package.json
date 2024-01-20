@@ -1,6 +1,6 @@
 {
   "name": "@aneki-no-yakuza/ticketing-common-2",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "The common code used ib project while following microservices (Stephen Grider) course from udemy",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
